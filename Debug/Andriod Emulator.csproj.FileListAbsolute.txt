@@ -1,0 +1,12 @@
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\bin\Debug\Andriod Emulator.exe.config
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\bin\Debug\Andriod Emulator.exe
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\bin\Debug\Andriod Emulator.pdb
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod Emulator.csprojAssemblyReference.cache
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod_Emulator.Control.resources
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod_Emulator.Properties.Resources.resources
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod Emulator.csproj.GenerateResource.cache
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod Emulator.csproj.CoreCompileInputs.cache
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod Emulator.exe
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod Emulator.pdb
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod_Emulator.AndriodStart.resources
+C:\Users\WIN_10\Desktop\Andriod Emulator\Andriod Emulator\obj\Debug\Andriod_Emulator.LockScreen.resources
